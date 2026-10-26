@@ -1,0 +1,7 @@
+function a()
+  function b()
+    function c()
+      return 1
+    end
+  end
+end
